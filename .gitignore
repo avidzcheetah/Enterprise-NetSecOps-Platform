@@ -1,0 +1,36 @@
+# Virtual Machines
+*.vmdk
+*.vdi
+*.vhd
+*.vhdx
+*.vmem
+*.vmsd
+*.vmsn
+*.nvram
+*.lck
+*.log
+
+# ISO Files
+*.iso
+
+# Archives
+*.zip
+*.7z
+*.rar
+
+# VM Exports
+03_VM_Exports/
+
+# Backups
+04_Backups/
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
