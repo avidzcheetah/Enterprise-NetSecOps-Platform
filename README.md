@@ -1,4 +1,4 @@
-# Enterprise Network Security Operations Platform
+# Enterprise Security Monitoring Platform
 
 ## Overview
 

@@ -34,3 +34,7 @@ __pycache__/
 # Windows
 Thumbs.db
 Desktop.ini
+
+02_VM_ISOs/
+resources/ISOs/
+vms/
